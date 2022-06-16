@@ -1,1 +1,1 @@
-# hooks# hooks
+Showing how `componentDidMount` `componentDidUpdate` `componentWillUnmount` works
